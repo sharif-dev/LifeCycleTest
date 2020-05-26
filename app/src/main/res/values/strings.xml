@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LifeCycleTest</string>
+    <string name="go_to_second_activity">Go To Second Activity</string>
+    <string name="go_to_third_activity">Go To Third Activity</string>
+    <string name="open_dialog">Open Dialog</string>
+    <string name="hakuna_matata">Hakuna Matata!</string>
+    <string name="dialoge_message">Life is boring, so is this dialoge!</string>
+    <string name="dialog_neutral_button">Alright!</string>
+</resources>
